@@ -1,0 +1,2 @@
+//Sketch battito migliorato per spegnere completamente i led nel punto morto del battito, senza che rimangano accesi (anche se minimamente)
+ 
